@@ -768,6 +768,10 @@
  }
 
  @media screen and (min-width: 1158px) {
+     .project {
+         padding: 120px 0 120px;
+     }
+
      .project-list {
          row-gap: 74px;
      }
