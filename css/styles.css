@@ -50,7 +50,7 @@
      }
  }
 
- @media screen and (min-width: 1200px) {
+ @media screen and (min-width: 1158px) {
      .container {
          width: 1200px;
          padding-left: 16px;
@@ -189,7 +189,7 @@
      }
  }
 
- @media screen and (min-width: 1200px) {
+ @media screen and (min-width: 1158px) {
      .header-logo {
 
          margin-right: 76px;
@@ -329,9 +329,6 @@
      background-color: #404bbf;
  }
 
- @media screen and (min-width: 768px) {}
-
-
  /* --------------- -----------  */
  /* ---------------HERO-----------  */
 
@@ -415,7 +412,7 @@
      }
  }
 
- @media screen and (min-width: 1200px) {
+ @media screen and (min-width: 1158px) {
      .hero {
          padding-top: 188px;
          padding-bottom: 188px;
@@ -497,7 +494,7 @@
      }
  }
 
- @media screen and (min-width: 1200px) {
+ @media screen and (min-width: 1158px) {
      .features {
          padding: 120px 0;
      }
@@ -653,7 +650,7 @@
      }
  }
 
- @media screen and (min-width: 1200px) {
+ @media screen and (min-width: 1158px) {
      .container-team {
          width: 1128px;
      }
@@ -760,10 +757,22 @@
  }
 
  @media screen and (min-width: 768px) {
+
+     .project-list {
+         row-gap: 74px;
+     }
+
      .project-images {
          width: 356px;
      }
  }
+
+ @media screen and (min-width: 1158px) {
+     .project-list {
+         row-gap: 74px;
+     }
+ }
+
 
  /* --------------- -----------  */
 
@@ -941,7 +950,7 @@
      }
  }
 
- @media screen and (min-width: 1200px) {
+ @media screen and (min-width: 1158px) {
      .footer {
          padding: 100px 0 100px;
      }
